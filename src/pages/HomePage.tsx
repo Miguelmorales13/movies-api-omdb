@@ -32,10 +32,12 @@ const HomePage: FunctionComponent<Props> = (props) => {
     const handleChange = (e: ChangeEvent<any>) => setSearch(e.target.value)
 
     useEffect(() => {
-        handleMovies()
+        handleMovies().then(r => {
+        })
     }, [])
     useEffect(() => {
-        handleMovies()
+        handleMovies().then(r => {
+        })
     }, [search])
 
     return (
