@@ -32,12 +32,12 @@ const HomePage: FunctionComponent<Props> = (props) => {
     const handleChange = (e: ChangeEvent<any>) => setSearch(e.target.value)
 
     useEffect(() => {
-        handleMovies().then(r => {
-        })
+        handleMovies()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
     useEffect(() => {
-        handleMovies().then(r => {
-        })
+        handleMovies()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [search])
 
     return (

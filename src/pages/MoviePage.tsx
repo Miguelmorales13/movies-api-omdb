@@ -35,6 +35,7 @@ const MoviePage: FunctionComponent<Props> = (props) => {
     }
     useEffect(() => {
         handleMovie()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
     return (
         <Paper className={classes.root}>

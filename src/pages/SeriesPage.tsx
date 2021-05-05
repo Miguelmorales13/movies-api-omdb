@@ -33,9 +33,11 @@ const SeriesPage: FunctionComponent<Props> = (props) => {
 
     useEffect(() => {
         handleMovies()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
     useEffect(() => {
         handleMovies()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [search])
 
     return (
