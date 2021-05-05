@@ -2,7 +2,7 @@ import axios, {AxiosError, AxiosRequestConfig, AxiosResponse} from "axios";
 
 const KEY = '19de8e43'
 const Http = axios.create({
-    baseURL: 'http://www.omdbapi.com/'
+    baseURL: 'https://www.omdbapi.com/'
 })
 
 const requestInterceptor = (request: AxiosRequestConfig): AxiosRequestConfig => {
