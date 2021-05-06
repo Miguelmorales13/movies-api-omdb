@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movies-api-omdb/static/css/main.2f88efff.chunk.css",
+    "main.js": "/movies-api-omdb/static/js/main.4f74bf60.chunk.js",
+    "main.js.map": "/movies-api-omdb/static/js/main.4f74bf60.chunk.js.map",
+    "runtime-main.js": "/movies-api-omdb/static/js/runtime-main.91628620.js",
+    "runtime-main.js.map": "/movies-api-omdb/static/js/runtime-main.91628620.js.map",
+    "static/js/2.8b765bb0.chunk.js": "/movies-api-omdb/static/js/2.8b765bb0.chunk.js",
+    "static/js/2.8b765bb0.chunk.js.map": "/movies-api-omdb/static/js/2.8b765bb0.chunk.js.map",
+    "static/js/3.7ea61458.chunk.js": "/movies-api-omdb/static/js/3.7ea61458.chunk.js",
+    "static/js/3.7ea61458.chunk.js.map": "/movies-api-omdb/static/js/3.7ea61458.chunk.js.map",
+    "index.html": "/movies-api-omdb/index.html",
+    "static/css/main.2f88efff.chunk.css.map": "/movies-api-omdb/static/css/main.2f88efff.chunk.css.map",
+    "static/js/2.8b765bb0.chunk.js.LICENSE.txt": "/movies-api-omdb/static/js/2.8b765bb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91628620.js",
+    "static/js/2.8b765bb0.chunk.js",
+    "static/css/main.2f88efff.chunk.css",
+    "static/js/main.4f74bf60.chunk.js"
+  ]
+}
